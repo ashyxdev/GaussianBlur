@@ -1,4 +1,4 @@
-package dev.client.tenacity.utils.render;
+package me.ashyx.blur.util;
 
 
 
